@@ -1,4 +1,4 @@
-# AI LLM Benchmark Project (Kaggle-Style)
+# AI LLM Benchmark Project
 A zero-shot evaluation pipeline to benchmark local LLMs (via Ollama) on reasoning, science, and logic MCQs, generating accuracy reports and CSV submissions.
 
 ## How to Run
